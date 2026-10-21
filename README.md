@@ -1,98 +1,108 @@
-<div align="center">
+# Hi, I'm Sameera 👋
 
-<img src="banner.svg" alt="Sameera Bhoyar: AI, Machine Learning, IoT, Full-Stack" width="100%"/>
+B.Tech CSE student at Symbiosis Institute of Technology, Nagpur. I like machine learning, IoT, and building apps that people can actually use.
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameera-bhoyar-a48394307)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sameerabhoyar009@gmail.com)
 
-<a href="https://www.linkedin.com/in/sameera-bhoyar-a48394307"><img src="https://img.shields.io/badge/LinkedIn-Sameera%20Bhoyar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sameerabhoyar009@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+## About me
 
-<br/><br/>
+- 🎓 Studying B.Tech in Computer Science and Engineering (2024 to present)
+- 🔭 Currently learning Machine Learning A-Z, deep learning and neural networks, and DSA in Python and Java
+- 🧪 AI & Machine Learning intern at Elevatelabs
+- 📄 Co-authored an IEEE paper on IoT-based health monitoring
+- 💬 Ask me about machine learning, IoT, React, Python, Java
+- 🤝 Open to hackathons, internships and collaborations on AI/ML projects
 
-<img src="terminal.svg" alt="Terminal intro" width="100%"/>
+## Projects
 
-<br/><br/>
+<table>
+<tr>
+<td>
+<a href="https://github.com/SAMeerAbhoyar/government-scheme-agent">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SAMeerAbhoyar&repo=government-scheme-agent&show_owner=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SAMeerAbhoyar&repo=government-scheme-agent&show_owner=true&theme=default">
+  <img alt="government-scheme-agent" src="https://github-readme-stats.vercel.app/api/pin/?username=SAMeerAbhoyar&repo=government-scheme-agent&show_owner=true&theme=github_dark" width="400"/>
+</picture>
+</a>
+</td>
+<td>
+<a href="https://github.com/AtharvaMeharkure/timesnap">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaMeharkure&repo=timesnap&show_owner=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaMeharkure&repo=timesnap&show_owner=true&theme=default">
+  <img alt="timesnap" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaMeharkure&repo=timesnap&show_owner=true&theme=github_dark" width="400"/>
+</picture>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/SAMeerAbhoyar/DeepNext">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SAMeerAbhoyar&repo=DeepNext&show_owner=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SAMeerAbhoyar&repo=DeepNext&show_owner=true&theme=default">
+  <img alt="DeepNext" src="https://github-readme-stats.vercel.app/api/pin/?username=SAMeerAbhoyar&repo=DeepNext&show_owner=true&theme=github_dark" width="400"/>
+</picture>
+</a>
+</td>
+<td>
+<a href="https://github.com/SAMeerAbhoyar/shc-interpreter">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SAMeerAbhoyar&repo=shc-interpreter&show_owner=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SAMeerAbhoyar&repo=shc-interpreter&show_owner=true&theme=default">
+  <img alt="shc-interpreter" src="https://github-readme-stats.vercel.app/api/pin/?username=SAMeerAbhoyar&repo=shc-interpreter&show_owner=true&theme=github_dark" width="400"/>
+</picture>
+</a>
+</td>
+</tr>
+</table>
 
-<img src="t-impact.svg" alt="Impact in numbers" width="100%"/>
-<br/>
-<img src="stats.svg" alt="90% extraction accuracy, 80% planning time saved, under 100ms emotion detection, 7 emotions, IEEE publication" width="100%"/>
+**Also built**
 
-<br/><br/>
+- **TimeSnap**: AI timetable assistant using React, Node.js, Firebase and the Gemini API. About 90% extraction accuracy and roughly 80% less time spent planning.
+- **Emotion Camera**: detects 7 emotions in the browser and triggers actions in Spotify and Notion. Runs fully client-side with under 100 ms latency, so no face data leaves the device.
+- **IoT Health Monitor**: tracks heart rate and temperature in real time and sends alerts for early detection of health issues.
 
-<img src="t-projects.svg" alt="Things I have built" width="100%"/>
-<br/>
+## Research
 
-<a href="https://github.com/SAMeerAbhoyar/government-scheme-agent"><img src="card-gov.svg" alt="Government Scheme Agent" width="49%"/></a>
-<a href="https://github.com/AtharvaMeharkure/timesnap"><img src="card-timesnap.svg" alt="TimeSnap" width="49%"/></a>
-<br/>
-<a href="https://github.com/SAMeerAbhoyar/DeepNext"><img src="card-deepnext.svg" alt="DeepNext" width="49%"/></a>
-<a href="https://github.com/SAMeerAbhoyar/shc-interpreter"><img src="card-shc.svg" alt="shc-interpreter" width="49%"/></a>
+> **Revolutionizing Healthcare: IoT-Enabled Continuous Health Monitoring Devices for the Future**
+> IEEE, 2025 12th International Conference on Emerging Trends in Engineering & Technology, Signal and Information Processing (ICETET-SIP), Nagpur.
+> DOI: [10.1109/ICETETSIP64213.2025.11156320](https://doi.org/10.1109/ICETETSIP64213.2025.11156320)
 
-<br/><br/>
+## Tech stack
 
-<img src="t-journey.svg" alt="My journey" width="100%"/>
-<br/>
-<img src="journey.svg" alt="Timeline: 2024 B.Tech, 2025 IEEE, AI and ML internship, building AI agents now" width="100%"/>
+![Skills](https://skillicons.dev/icons?i=py,java,c,html,css,react,nodejs,firebase,tensorflow,sklearn,pandas,numpy,sqlite,oracle,git,github,vscode,eclipse,linux,vercel&perline=10)
 
-<br/><br/>
-
-<img src="t-research.svg" alt="Research" width="100%"/>
-<br/>
-<a href="https://doi.org/10.1109/ICETETSIP64213.2025.11156320"><img src="publication.svg" alt="IEEE paper: Revolutionizing Healthcare: IoT-Enabled Continuous Health Monitoring Devices for the Future" width="100%"/></a>
-
-<br/><br/>
-
-<img src="t-stack.svg" alt="Tech universe" width="100%"/>
-<br/>
-<img src="orbit.svg" alt="Orbiting skills: TensorFlow, Keras, scikit-learn, Pandas, NumPy, Python, Java, C, SQL, HTML/CSS, DSA, React, Node.js, Firebase, Git, Jupyter, Colab, Vercel, Eclipse" width="100%"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=py,java,c,html,css,react,nodejs,firebase,tensorflow,sklearn,pandas,numpy,sqlite,oracle,git,github,vscode,eclipse,linux,vercel&perline=10" alt="Skill icons"/>
-
-<br/><br/>
-
-<img src="t-quest.svg" alt="Learning quest" width="100%"/>
-<br/>
-<img src="quest.svg" alt="Machine Learning A-Z in progress, deep learning exploring, DSA leveling up" width="100%"/>
-
-</div>
+Also: Keras, Matplotlib, Jupyter Notebook, Google Colab, face-api.js, Gemini API.
 
 <details>
-<summary><b>Certifications (click to open)</b></summary>
-<br/>
+<summary>Courses and certifications</summary>
 
 - Red Hat System Administration I (RH124 v10), Red Hat Training
 - Introduction to Python Programming (AD141), Red Hat Training
 - Data Structures and Algorithms using Python, Part 1, Infosys Springboard
 - Programming in C, Infosys Springboard
+- Machine Learning A-Z, Udemy (in progress)
 
 </details>
 
-<div align="center">
+## GitHub stats
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SAMeerAbhoyar&show_icons=true&count_private=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SAMeerAbhoyar&show_icons=true&count_private=true&theme=default">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SAMeerAbhoyar&show_icons=true&count_private=true&theme=github_dark" height="170"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMeerAbhoyar&layout=compact&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMeerAbhoyar&layout=compact&theme=default">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMeerAbhoyar&layout=compact&theme=github_dark" height="170"/>
+</picture>
 
-<img src="t-analytics.svg" alt="GitHub analytics" width="100%"/>
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SAMeerAbhoyar&show_icons=true&hide_border=true&border_radius=16&bg_color=0e0a22&title_color=2dffc4&icon_color=ff4d8d&text_color=f1eeff" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMeerAbhoyar&layout=compact&hide_border=true&border_radius=16&bg_color=0e0a22&title_color=2dffc4&text_color=f1eeff" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SAMeerAbhoyar&hide_border=true&border_radius=16&background=0e0a22&ring=ff4d8d&fire=ffc46b&currStreakLabel=2dffc4&sideLabels=f1eeff&currStreakNum=f1eeff&sideNums=f1eeff&dates=a49ec9" alt="Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMeerAbhoyar&bg_color=0e0a22&color=2dffc4&line=ff4d8d&point=ffffff&area=true&area_color=8b5cff&hide_border=true&radius=16" alt="Activity graph" width="100%"/>
-
-<br/>
-
-<img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%"/>
-
-<br/><br/>
-
-<img src="t-connect.svg" alt="Say hello" width="100%"/>
-<br/>
-<a href="https://www.linkedin.com/in/sameera-bhoyar-a48394307"><img src="footer.svg" alt="Let's build something unreal" width="100%"/></a>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SAMeerAbhoyar&theme=github-dark-blue">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SAMeerAbhoyar&theme=default">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=SAMeerAbhoyar&theme=github-dark-blue" />
+</picture>
