@@ -1,59 +1,58 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sameera Bhoyar: AI, Machine Learning, IoT, Full-Stack" width="100%"/>
+<img src="banner.svg" alt="Sameera Bhoyar: AI, Machine Learning, IoT, Full-Stack" width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/sameera-bhoyar-a48394307"><img src="https://img.shields.io/badge/LinkedIn-Sameera%20Bhoyar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sameerabhoyar009@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=SAMeerAbhoyar&label=Visitors&color=8b5cff&style=for-the-badge" alt="Visitors"/>
 
 <br/><br/>
 
-<img src="assets/terminal.svg" alt="Terminal intro" width="100%"/>
+<img src="terminal.svg" alt="Terminal intro" width="100%"/>
 
 <br/><br/>
 
-<img src="assets/t-impact.svg" alt="Impact in numbers" width="100%"/>
+<img src="t-impact.svg" alt="Impact in numbers" width="100%"/>
 <br/>
-<img src="assets/stats.svg" alt="90% extraction accuracy, 80% planning time saved, under 100ms emotion detection, 7 emotions, IEEE publication" width="100%"/>
+<img src="stats.svg" alt="90% extraction accuracy, 80% planning time saved, under 100ms emotion detection, 7 emotions, IEEE publication" width="100%"/>
 
 <br/><br/>
 
-<img src="assets/t-projects.svg" alt="Things I have built" width="100%"/>
+<img src="t-projects.svg" alt="Things I have built" width="100%"/>
 <br/>
 
-<a href="https://github.com/SAMeerAbhoyar/government-scheme-agent"><img src="assets/card-gov.svg" alt="Government Scheme Agent" width="49%"/></a>
-<a href="https://github.com/AtharvaMeharkure/timesnap"><img src="assets/card-timesnap.svg" alt="TimeSnap" width="49%"/></a>
+<a href="https://github.com/SAMeerAbhoyar/government-scheme-agent"><img src="card-gov.svg" alt="Government Scheme Agent" width="49%"/></a>
+<a href="https://github.com/AtharvaMeharkure/timesnap"><img src="card-timesnap.svg" alt="TimeSnap" width="49%"/></a>
 <br/>
-<a href="https://github.com/SAMeerAbhoyar/DeepNext"><img src="assets/card-deepnext.svg" alt="DeepNext" width="49%"/></a>
-<a href="https://github.com/SAMeerAbhoyar"><img src="assets/card-emotion.svg" alt="Emotion Camera" width="49%"/></a>
+<a href="https://github.com/SAMeerAbhoyar/DeepNext"><img src="card-deepnext.svg" alt="DeepNext" width="49%"/></a>
+<a href="https://github.com/SAMeerAbhoyar"><img src="card-emotion.svg" alt="Emotion Camera" width="49%"/></a>
 
 <br/><br/>
 
-<img src="assets/t-journey.svg" alt="My journey" width="100%"/>
+<img src="t-journey.svg" alt="My journey" width="100%"/>
 <br/>
-<img src="assets/journey.svg" alt="Timeline: 2024 B.Tech, 2025 IEEE, AI and ML internship, building AI agents now" width="100%"/>
+<img src="journey.svg" alt="Timeline: 2024 B.Tech, 2025 IEEE, AI and ML internship, building AI agents now" width="100%"/>
 
 <br/><br/>
 
-<img src="assets/t-research.svg" alt="Research" width="100%"/>
+<img src="t-research.svg" alt="Research" width="100%"/>
 <br/>
-<a href="https://doi.org/10.1109/ICETETSIP64213.2025.11156320"><img src="assets/publication.svg" alt="IEEE paper: Revolutionizing Healthcare: IoT-Enabled Continuous Health Monitoring Devices for the Future" width="100%"/></a>
+<a href="https://doi.org/10.1109/ICETETSIP64213.2025.11156320"><img src="publication.svg" alt="IEEE paper: Revolutionizing Healthcare: IoT-Enabled Continuous Health Monitoring Devices for the Future" width="100%"/></a>
 
 <br/><br/>
 
-<img src="assets/t-stack.svg" alt="Tech universe" width="100%"/>
+<img src="t-stack.svg" alt="Tech universe" width="100%"/>
 <br/>
-<img src="assets/orbit.svg" alt="Orbiting skills: TensorFlow, Keras, scikit-learn, Pandas, NumPy, Python, Java, C, SQL, HTML/CSS, DSA, React, Node.js, Firebase, Git, Jupyter, Colab, Vercel, Eclipse" width="100%"/>
+<img src="orbit.svg" alt="Orbiting skills: TensorFlow, Keras, scikit-learn, Pandas, NumPy, Python, Java, C, SQL, HTML/CSS, DSA, React, Node.js, Firebase, Git, Jupyter, Colab, Vercel, Eclipse" width="100%"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=py,java,c,html,css,react,nodejs,firebase,tensorflow,sklearn,pandas,numpy,sqlite,oracle,git,github,vscode,eclipse,linux,vercel&perline=10" alt="Skill icons"/>
 
 <br/><br/>
 
-<img src="assets/t-quest.svg" alt="Learning quest" width="100%"/>
+<img src="t-quest.svg" alt="Learning quest" width="100%"/>
 <br/>
-<img src="assets/quest.svg" alt="Machine Learning A-Z in progress, deep learning exploring, DSA leveling up" width="100%"/>
+<img src="quest.svg" alt="Machine Learning A-Z in progress, deep learning exploring, DSA leveling up" width="100%"/>
 
 </div>
 
@@ -72,7 +71,7 @@
 
 <br/>
 
-<img src="assets/t-analytics.svg" alt="GitHub analytics" width="100%"/>
+<img src="t-analytics.svg" alt="GitHub analytics" width="100%"/>
 <br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=SAMeerAbhoyar&show_icons=true&hide_border=true&border_radius=16&bg_color=0e0a22&title_color=2dffc4&icon_color=ff4d8d&text_color=f1eeff" alt="GitHub stats"/>
@@ -92,8 +91,8 @@
 
 <br/><br/>
 
-<img src="assets/t-connect.svg" alt="Say hello" width="100%"/>
+<img src="t-connect.svg" alt="Say hello" width="100%"/>
 <br/>
-<a href="https://www.linkedin.com/in/sameera-bhoyar-a48394307"><img src="assets/footer.svg" alt="Let's build something unreal" width="100%"/></a>
+<a href="https://www.linkedin.com/in/sameera-bhoyar-a48394307"><img src="footer.svg" alt="Let's build something unreal" width="100%"/></a>
 
 </div>
