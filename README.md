@@ -26,7 +26,7 @@
 <a href="https://github.com/AtharvaMeharkure/timesnap"><img src="card-timesnap.svg" alt="TimeSnap" width="49%"/></a>
 <br/>
 <a href="https://github.com/SAMeerAbhoyar/DeepNext"><img src="card-deepnext.svg" alt="DeepNext" width="49%"/></a>
-<a href="https://github.com/SAMeerAbhoyar"><img src="card-emotion.svg" alt="Emotion Camera" width="49%"/></a>
+<a href="https://github.com/SAMeerAbhoyar/shc-interpreter"><img src="card-shc.svg" alt="shc-interpreter" width="49%"/></a>
 
 <br/><br/>
 
