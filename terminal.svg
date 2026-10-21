@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img">
+<defs>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2dffc4"/><stop offset="0.5" stop-color="#8b5cff"/><stop offset="1" stop-color="#ff4d8d"/></linearGradient>
+<clipPath id="c0"><rect x="28" y="78" width="0" height="26"><animate attributeName="width" values="0;0;76;76;0" keyTimes="0;0.030;0.080;0.96;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="28" y="104" width="0" height="26"><animate attributeName="width" values="0;0;661;661;0" keyTimes="0;0.125;0.210;0.96;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="28" y="130" width="0" height="26"><animate attributeName="width" values="0;0;157;157;0" keyTimes="0;0.220;0.270;0.96;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="28" y="156" width="0" height="26"><animate attributeName="width" values="0;0;580;580;0" keyTimes="0;0.315;0.400;0.96;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c4"><rect x="28" y="182" width="0" height="26"><animate attributeName="width" values="0;0;166;166;0" keyTimes="0;0.410;0.460;0.96;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c5"><rect x="28" y="208" width="0" height="26"><animate attributeName="width" values="0;0;634;634;0" keyTimes="0;0.505;0.590;0.96;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c6"><rect x="28" y="234" width="0" height="26"><animate attributeName="width" values="0;0;193;193;0" keyTimes="0;0.600;0.650;0.96;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c7"><rect x="28" y="260" width="0" height="26"><animate attributeName="width" values="0;0;517;517;0" keyTimes="0;0.695;0.780;0.96;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="900" height="330" rx="16" fill="#0e0a22" stroke="url(#edge)" stroke-width="1.5"/>
+<path d="M0 16a16 16 0 0 1 16-16h868a16 16 0 0 1 16 16V52H0z" fill="#150f33"/>
+<circle cx="28" cy="26" r="6" fill="#ff4d8d"/><circle cx="50" cy="26" r="6" fill="#ffc46b"/><circle cx="72" cy="26" r="6" fill="#2dffc4"/>
+<text x="450" y="31" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#a49ec9">sameera@github: ~</text>
+<text x="30" y="96" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c0)" textLength="72" lengthAdjust="spacing"><tspan fill="#2dffc4">$ </tspan><tspan fill="#f1eeff">whoami</tspan></text>
+<text x="30" y="122" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c1)" textLength="657" lengthAdjust="spacing"><tspan fill="#c9b8ff">  Sameera Bhoyar | B.Tech CSE | Symbiosis Institute of Technology, Nagpur</tspan></text>
+<text x="30" y="148" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c2)" textLength="153" lengthAdjust="spacing"><tspan fill="#2dffc4">$ </tspan><tspan fill="#f1eeff">cat mission.txt</tspan></text>
+<text x="30" y="174" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c3)" textLength="576" lengthAdjust="spacing"><tspan fill="#c9b8ff">  Build AI that is useful, private and genuinely human-friendly.</tspan></text>
+<text x="30" y="200" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c4)" textLength="162" lengthAdjust="spacing"><tspan fill="#2dffc4">$ </tspan><tspan fill="#f1eeff">ls ./superpowers</tspan></text>
+<text x="30" y="226" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c5)" textLength="630" lengthAdjust="spacing"><tspan fill="#c9b8ff">  machine-learning/  deep-learning/  iot/  full-stack/  ieee-paper.pdf</tspan></text>
+<text x="30" y="252" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c6)" textLength="189" lengthAdjust="spacing"><tspan fill="#2dffc4">$ </tspan><tspan fill="#f1eeff">echo $CURRENT_QUEST</tspan></text>
+<text x="30" y="278" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c7)" textLength="513" lengthAdjust="spacing"><tspan fill="#c9b8ff">  Leveling up in Deep Learning, one neural net at a time.</tspan></text>
+<text x="30" y="304" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#2dffc4">$</text><rect x="48" y="290" width="9" height="18" fill="#2dffc4"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>

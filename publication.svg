@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img">
+<defs>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter><linearGradient id="bd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="230"><stop offset="0" stop-color="#2dffc4"/><stop offset="0.4" stop-color="#2a2150"/><stop offset="0.7" stop-color="#ff4d8d"/><stop offset="1" stop-color="#2a2150"/><animateTransform attributeName="gradientTransform" type="rotate" from="0 450.0 115.0" to="360 450.0 115.0" dur="12s" repeatCount="indefinite"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="898" height="228" rx="20" fill="#0e0a22"/>
+<circle cx="120" cy="115" r="120" fill="#2dffc4" opacity="0.14" filter="url(#soft)"><animate attributeName="opacity" values="0.08;0.22;0.08" dur="5s" repeatCount="indefinite"/></circle>
+<rect x="1" y="1" width="898" height="228" rx="20" fill="none" stroke="url(#bd)" stroke-width="2"/>
+<g transform="translate(46 40)"><path d="M0 0 H60 L84 24 V130 H0Z" fill="#150f33" stroke="#2dffc4" stroke-width="2.5" filter="url(#glow)"/><path d="M60 0 V24 H84" fill="none" stroke="#2dffc4" stroke-width="2.5"/><text x="42" y="62" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="900" fill="#2dffc4">IEEE</text><path d="M14 82 H70 M14 96 H70 M14 110 H50" stroke="#a49ec9" stroke-width="3" stroke-linecap="round" stroke-dasharray="56" stroke-dashoffset="56"><animate attributeName="stroke-dashoffset" values="56;0;0" keyTimes="0;0.3;1" dur="5s" repeatCount="indefinite"/></path></g>
+<text x="170" y="62" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#ff4d8d">Published research</text>
+<text x="170" y="100" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#f1eeff">Revolutionizing Healthcare: IoT-Enabled</text>
+<text x="170" y="132" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#f1eeff">Continuous Health Monitoring Devices for the Future</text>
+<text x="170" y="165" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#a49ec9">2025 12th International Conference on Emerging Trends in Engineering and Technology (ICETET-SIP), Nagpur</text>
+<text x="170" y="196" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#2dffc4">doi: 10.1109/ICETETSIP64213.2025.11156320</text>
+</svg>
