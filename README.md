@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="ui-home.svg" alt="sameera.exe: hello, world" width="100%"/>
+<img src="ui-home.svg" alt="sameera.exe: I teach machines to understand people" width="100%"/>
 
 <img src="ui-profile.svg" alt="Hi, I'm Sameera Bhoyar, a CS student and ML enthusiast. Currently learning ML A-Z, deep learning and DSA." width="100%"/>
 
-<img src="ui-sysinfo.svg" alt="neofetch: B.Tech CSE at Symbiosis Institute of Technology, Nagpur. Python, Java, C, SQL, React, Node.js, Firebase, TensorFlow, Keras, scikit-learn." width="100%"/>
+<img src="ui-sysinfo.svg" alt="B.Tech CSE at Symbiosis Institute of Technology, Nagpur. Python, Java, C, SQL, React, Node.js, Firebase, TensorFlow, Keras, scikit-learn." width="100%"/>
+
+<img src="ui-stats.svg" alt="90% timetable extraction accuracy, about 80% planning time saved, under 100ms emotion detection latency, 7 emotions detected live, IEEE published paper" width="100%"/>
 
 <img src="ui-bar-works.svg" alt="works" width="100%"/>
 
@@ -19,7 +21,9 @@
 </tr>
 </table>
 
-<img src="ui-tools.svg" alt="Installed apps: Python, Java, C, HTML, CSS, SQL, React, Node.js, Firebase, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Git, GitHub, VS Code, Colab, Jupyter, Eclipse" width="100%"/>
+<img src="ui-orbit.svg" alt="Skills orbiting AI/ML: TensorFlow, Keras, scikit-learn, Pandas, NumPy, Python, Java, C, SQL, HTML/CSS, DSA, React, Node.js, Firebase, Git, Jupyter, Colab, Vercel, Eclipse" width="100%"/>
+
+<img src="ui-timeline.svg" alt="Timeline: 2024 starts B.Tech CSE, 2025 IEEE publication, AI and ML intern at Elevatelabs, now building AI agents" width="100%"/>
 
 <img src="ui-resume.svg" alt="Resume: B.Tech CSE at Symbiosis Institute of Technology, AI and ML intern at Elevatelabs, courses" width="100%"/>
 
@@ -30,7 +34,9 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SAMeerAbhoyar&show_icons=true&count_private=true&ring_color=e8750f&bg_color=f7efdf&title_color=e8750f&text_color=2f3220&icon_color=6b6e40&border_color=23251a&border_radius=12" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMeerAbhoyar&layout=compact&bg_color=f7efdf&title_color=e8750f&text_color=2f3220&icon_color=6b6e40&border_color=23251a&border_radius=12" alt="Top languages"/>
 
-<a href="https://www.linkedin.com/in/sameera-bhoyar-a48394307"><img src="ui-contact.svg" alt="Chat with me: sameerabhoyar009@gmail.com, LinkedIn, GitHub" width="100%"/></a>
+<img src="ui-contact.svg" alt="Chat with me: sameerabhoyar009@gmail.com, LinkedIn, GitHub" width="100%"/>
+
+<a href="https://www.linkedin.com/in/sameera-bhoyar-a48394307"><img src="ui-shutdown.svg" alt="Leaving already? Say hi on LinkedIn" width="100%"/></a>
 
 [LinkedIn](https://www.linkedin.com/in/sameera-bhoyar-a48394307) &nbsp;|&nbsp; [Email](mailto:sameerabhoyar009@gmail.com) &nbsp;|&nbsp; [IEEE paper](https://doi.org/10.1109/ICETETSIP64213.2025.11156320)
 
